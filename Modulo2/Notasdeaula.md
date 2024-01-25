@@ -10,3 +10,5 @@
 
 ### Git add . 
 ** Ele adiciona todos os arquivos para a esteira de commit 
+
+### Git commit 

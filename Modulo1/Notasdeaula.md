@@ -1,6 +1,11 @@
 ### Notas de aula referentes ao curso git e github na WoMakes
 
 
-### Nota 1
+### Instalaçao do git 
 
-### Nota 2
+### Configuraçao do git 
+
+
+### Comandos
+
+
